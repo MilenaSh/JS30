@@ -1,0 +1,81 @@
+[{
+    "Id": "ea6733b8-83cd-5ee8-82c0-0f7705a82bef",
+    "Order": 0,
+    "Type": "html",
+    "Element": "<header>\n<div class=\"homepage-header\" data-block=\"header\">\n<div id=\"homepage-header\" class=\"header-wrapper header-white\">\n<div><input class=\"try-button\" type=\"button\" value=\"TRY NOW\" /></div>\n<div class=\"logo-container\">\n<div><img class=\"logo-desktop\" src=\"../../images/LOGO.png\" alt=\"Sitetriks logo\" /></div>\n</div>\n<div class=\"logo-container-mobile\">\n<div id=\"hamburger-menu\"><img class=\"hamburger-image\" src=\"../../images/mobile/hamburger menu.svg\" alt=\"menu\" /></div>\n<div class=\"logo-mobile\"><img class=\"logo-mobile-image\" src=\"../../images/mobile/LOGO_mob.svg\" alt=\"Sitetriks logo\" /> <img class=\"logo-mobile-image\" style=\"display: none;\" src=\"../../images/mobile/LOGO_mob_w.svg\" alt=\"Sitetriks logo\" /></div>\n</div>\n</div>\n<div class=\"header-wrapper header-blue\">\n<div class=\"slogan\">Lightning quick .NET MVC5 CMS - Entreprise functionalities, quick, simple and hassel free.</div>\n</div>\n</div>\n</header>\n<div class=\"main\">&nbsp;</div>",
+    "IsLocked": false,
+    "Placeholder": "0",
+    "CssClass": "sitetriks-wrapper",
+    "IsInherited": false,
+    "IsModifiedOnChild": false
+}, {
+    "Id": "173f6d2c-285e-0f8c-d1c2-4badf3a49119",
+    "Order": 1,
+    "Type": "dynamic",
+    "Element": "HomePageMenuItems/List/MobileMenu",
+    "IsLocked": false,
+    "Placeholder": "0",
+    "CssClass": null,
+    "IsInherited": false,
+    "IsModifiedOnChild": false
+}, {
+    "Id": "b61818ae-e5bd-c622-3016-bdbb2a5c2e3c",
+    "Order": 2,
+    "Type": "dynamic",
+    "Element": "HomePageMenuItems/List/FloatingMenu",
+    "IsLocked": false,
+    "Placeholder": "0",
+    "CssClass": null,
+    "IsInherited": false,
+    "IsModifiedOnChild": false
+}, {
+    "Id": "a5466d51-3ab1-5c8b-98e1-b6bffc779016",
+    "Order": 3,
+    "Type": "html",
+    "Element": "<div class=\"wrapper-center\">\n<div class=\"dandelion-menu\">&nbsp;</div>\n<div class=\"diamond-figure\"><img src=\"../../images/Diamond.svg\" alt=\"Diamond figure\" /></div>\n</div>",
+    "IsLocked": false,
+    "Placeholder": "0",
+    "CssClass": "jumbotron-section",
+    "IsInherited": false,
+    "IsModifiedOnChild": false
+}, {
+    "Id": "4bde51c8-479e-9052-431c-65940a31e089",
+    "Order": 4,
+    "Type": "dynamic",
+    "Element": "MiddleMenuItem/List/Standard",
+    "IsLocked": false,
+    "Placeholder": "0",
+    "CssClass": null,
+    "IsInherited": false,
+    "IsModifiedOnChild": false
+}, {
+    "Id": "5e7f2036-2ecb-373c-a4ed-3bc8a29440d6",
+    "Order": 5,
+    "Type": "html",
+    "Element": "<div class=\"technology-list hidden-by-menu\">\n<div class=\"wrapper-technology-list\">\n<div class=\"technology-list-header\">\n<div class=\"row header\">\n<p>Technology &amp; advantages</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col col-lg-8 col-md-8 col-sm-8 col-xs-12 technology-description\">\n<div class=\"main-description-mobile-wrapper\">\n<div class=\"col col-lg-12 col-xs-12 main-desription\">\n<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>\n<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</div>\n<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</div>\n</div>\n</div>\n<div class=\"advantages-wrapper\">\n<div class=\"advantages-block\">Advantages <img class=\"dropdownOne-advantage side-arrow\" src=\"../../images/mobile/shrank.svg\" alt=\"shrank\" /> <img class=\"dropdownOne-advantage arrow-down\" style=\"display: none;\" src=\"../../images/mobile/Arrow down.svg\" alt=\"shrank\" /></div>\n</div>\n<div class=\"col col-lg-6 col-md-6 col-sm-6 col-xs-12 bullets first-column\">\n<ul>\n<li>Custom modules with access to the core functionality and content.</li>\n<li>Extensive widget configuration.</li>\n<li>Dynamic views that do not require page reload.</li>\n<li>User friendly conted editing eperience.</li>\n<li>Out of the box error tracking and logging (using Elmah).</li>\n<li>Full support for custom background support using HangFire.</li>\n<li>Database first approach for managing and extending database data and structure.</li>\n</ul>\n</div>\n<div class=\"col col-lg-6 col-md-6 col-sm-6 col-xs-12 bullets\">\n<ul>\n<li>Quicker load time</li>\n<li>Simpler and faster development</li>\n<li>Modular Design</li>\n<li>Extensibility</li>\n<li>Custom UI controls</li>\n<li>Free access to the views (html structure of the front and backend widgets).</li>\n<li>Resource friendly</li>\n<li>Two tier configuration storage</li>\n<li>Sitemap generator following the latest Google&rsquo;s best practices.</li>\n</ul>\n</div>\n</div>\n<div class=\"technology-block\">Technology <img class=\"dropdownOne-tech side-arrow\" src=\"../../images/mobile/shrank.svg\" alt=\"shrank\" /> <img class=\"dropdownOne-tech arrow-down\" style=\"display: none;\" src=\"../../images/mobile/Arrow down.svg\" alt=\"shrank\" /></div>\n<div class=\"col col-lg-4 col-md-4 col-sm-4 col-xs-12 technology-links\">\n<div>MVC 5</div>\n<div>Entity Framework</div>\n<div>ASP .NET</div>\n<div>HTML 5</div>\n<div>JQuery</div>\n<div>Bootstrap</div>\n<div>Ajax</div>\n<div>Elmah</div>\n<div>Hagfire</div>\n</div>\n</div>\n</div>\n</div>",
+    "IsLocked": false,
+    "Placeholder": "0",
+    "CssClass": "",
+    "IsInherited": false,
+    "IsModifiedOnChild": false
+}, {
+    "Id": "c8e6dd69-4d3f-9006-b79d-79d8a7121e91",
+    "Order": 6,
+    "Type": "dynamic",
+    "Element": "HomePageMenuItems/List/StaticMenu",
+    "IsLocked": false,
+    "Placeholder": "0",
+    "CssClass": null,
+    "IsInherited": false,
+    "IsModifiedOnChild": false
+}, {
+    "Id": "a4e37ac2-e1c3-dad6-6180-900a086dcbf5",
+    "Order": 7,
+    "Type": "html",
+    "Element": "<div class=\"row\">\n<div class=\"col col-lg-1 col-xs-2\">\n<div class=\"glyphicon glyphicon-arrow-up\">\n<div><a href=\"#\">To top </a></div>\n</div>\n</div>\n<div class=\"col col-lg-10 col-xs-8\">\n<p>Sitetriks - a new generation cms</p>\n</div>\n<div class=\"col col-lg-1 col-xs-2\">\n<div class=\"glyphicon glyphicon-arrow-up\">\n<div><a href=\"#\">To top </a></div>\n</div>\n</div>\n</div>",
+    "IsLocked": false,
+    "Placeholder": "0",
+    "CssClass": "homepage-footer",
+    "IsInherited": false,
+    "IsModifiedOnChild": false
+}]
